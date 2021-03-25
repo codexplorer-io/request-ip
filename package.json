@@ -1,0 +1,8 @@
+{
+  "name": "@codexporer.io/request-ip",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "jest-fetch-mock": "*"
+  }
+}
